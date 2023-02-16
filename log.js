@@ -13,5 +13,5 @@ d1.innerHTML=usern
 
 function logout(){
     window.location="index.html"
-    localStorage.removeItem("usern")
+    localStorage.removeItem("uname")
 }
